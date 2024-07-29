@@ -1,0 +1,202 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+    "questions": [\
+        \{\
+            "question": "\'bfCu\'e1l es el resultado de 2 + 2?",\
+            "answers": [\
+                \{ "text": "3", "correct": false \},\
+                \{ "text": "4", "correct": true \},\
+                \{ "text": "5", "correct": false \},\
+                \{ "text": "6", "correct": false \}\
+            ],\
+            "image": null\
+        \},\
+        \{\
+            "question": "\'bfCu\'e1l es el \'e1rea de un c\'edrculo con radio r?",\
+            "answers": [\
+                \{ "text": "\uc0\u960 r\'b2", "correct": true \},\
+                \{ "text": "2\uc0\u960 r", "correct": false \},\
+                \{ "text": "\uc0\u960 r", "correct": false \},\
+                \{ "text": "\uc0\u960 r\'b3", "correct": false \}\
+            ],\
+            "image": "ruta/a/imagen/circulo.png"\
+        \},\
+        \{\
+            "question": "A las 3 a.m. de un d\'eda de invierno se reporta una temperatura de \'963 \'b0C, a las 12 del d\'eda la temperatura ya es de 15 \'b0C, \'bfde cu\'e1ntos grados fue la diferencia de temperaturas?",\
+            "answers": [\
+                \{ "text": "18 \'b0C", "correct": true \},\
+                \{ "text": "12 \'b0C", "correct": false \},\
+                \{ "text": "-18 \'b0C", "correct": false \},\
+                \{ "text": "-12 \'b0C", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "Resuelve:",\
+            "answers": [\
+                \{ "text": "a", "correct": false \},\
+                \{ "text": "b", "correct": true \},\
+                \{ "text": "c", "correct": false \},\
+                \{ "text": "d", "correct": false \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_6a231ac4f76748d5b5a25715522d674e~mv2.png"\
+        \},\
+        \{\
+            "question": "Resuelve:",\
+            "answers": [\
+                \{ "text": "a", "correct": false \},\
+                \{ "text": "b", "correct": false \},\
+                \{ "text": "c", "correct": true \},\
+                \{ "text": "d", "correct": false \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_b2a70031063f47b78026a5b841e5d5a9~mv2.png"\
+        \},\
+        \{\
+            "question": "Resuelve:",\
+            "answers": [\
+                \{ "text": "a", "correct": true \},\
+                \{ "text": "b", "correct": false \},\
+                \{ "text": "c", "correct": false \},\
+                \{ "text": "d", "correct": false \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_4dba996b62e14630b8f6328ac9232505~mv2.png"\
+        \},\
+        \{\
+            "question": "La expresi\'f3n \\(2x + 3 = 7\\) es una",\
+            "answers": [\
+                \{ "text": "inecuaci\'f3n.", "correct": false \},\
+                \{ "text": "desigualdad.", "correct": false \},\
+                \{ "text": "ecuaci\'f3n.", "correct": true \},\
+                \{ "text": "identidad.", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "Las ra\'edces de la ecuaci\'f3n \\(2x^2 + 5x - 3 = 0\\) son",\
+            "answers": [\
+                \{ "text": "\uc0\u8722 2, 3", "correct": false \},\
+                \{ "text": "\uc0\u8722 3, \\(\\frac\{1\}\{2\}\\)", "correct": true \},\
+                \{ "text": "3, \uc0\u8722 \\(\\frac\{1\}\{2\}\\)", "correct": false \},\
+                \{ "text": "2, \uc0\u8722 3", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "La soluci\'f3n de la desigualdad \\(3x - 5 > x + 6\\) es",\
+            "answers": [\
+                \{ "text": "x > \\(\\frac\{11\}\{2\}\\)", "correct": true \},\
+                \{ "text": "x > \uc0\u8722 \\(\\frac\{11\}\{2\}\\)", "correct": false \},\
+                \{ "text": "x > 2 \\(\\frac\{11\}\{2\}\\)", "correct": false \},\
+                \{ "text": "x > \uc0\u8722  \\(\\frac\{2\}\{11\}\\)", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "Resuelve:",\
+            "answers": [\
+                \{ "text": "x = -2, y = 3, z = 5", "correct": false \},\
+                \{ "text": "x = 2, y = 4, z = -5", "correct": false \},\
+                \{ "text": "x = -2, y = 4, z = 5", "correct": true \},\
+                \{ "text": "x = 2, y = 3, z = -5", "correct": false \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_eef848f70e7f4b85a88f36dd8030b6eb~mv2.png"\
+        \},\
+        \{\
+            "question": "Encuentra el dominio de la funci\'f3n que tiene regla de correspondencia \\( f(x) = x^2 + 1 \\) y rango \\( R_f = \\\{ f(x) \\in [1,17] \\\} \\)",\
+            "answers": [\
+                \{ "text": "D_f = \\\{ x \\in [0,4] \\\}", "correct": false \},\
+                \{ "text": "D_f = \\\{ x \\in (0,4) \\\}", "correct": false \},\
+                \{ "text": "D_f = \\\{ x \\in (-4,4) \\\}", "correct": false \},\
+                \{ "text": "D_f = \\\{ x \\in [-4,4] \\\}", "correct": true \}\
+            ]\
+        \},\
+        \{\
+            "question": "\'bfA cu\'e1ntos grados equivalen \\( \\frac\{11\\pi\}\{18\} \\) radianes?",\
+            "answers": [\
+                \{ "text": "220\'b0", "correct": true \},\
+                \{ "text": "110\'b0", "correct": false \},\
+                \{ "text": "169\'b0", "correct": false \},\
+                \{ "text": "198\'b0", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "En un tri\'e1ngulo rect\'e1ngulo, la hipotenusa mide 6 unidades y uno de sus \'e1ngulos es de \\(30\'b0\\). \'bfCu\'e1ntas unidades mide el cateto opuesto a ese \'e1ngulo?",\
+            "answers": [\
+                \{ "text": "3", "correct": true \},\
+                \{ "text": "4", "correct": false \},\
+                \{ "text": "5", "correct": false \},\
+                \{ "text": "6", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "Una funci\'f3n cuadr\'e1tica de la forma \\(ax^2 + bx + c = 0\\), tiene dos soluciones reales cuando",\
+            "answers": [\
+                \{ "text": "el discriminante es menor que cero.", "correct": false \},\
+                \{ "text": "el discriminante es mayor que cero.", "correct": true \},\
+                \{ "text": "el discriminante es igual a cero.", "correct": false \},\
+                \{ "text": "el discriminante es mayor que uno.", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "Un tri\'e1ngulo is\'f3sceles tiene dos lados de 10 cm y uno de 15 cm. \'bfCu\'e1l es la altura del tri\'e1ngulo?",\
+            "answers": [\
+                \{ "text": "7 cm", "correct": false \},\
+                \{ "text": "7.5 cm", "correct": false \},\
+                \{ "text": "8 cm", "correct": true \},\
+                \{ "text": "9 cm", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "\'bfQu\'e9 representa el \'e1rea bajo la curva en una gr\'e1fica de velocidad contra tiempo?",\
+            "answers": [\
+                \{ "text": "La aceleraci\'f3n.", "correct": false \},\
+                \{ "text": "La distancia recorrida.", "correct": true \},\
+                \{ "text": "El tiempo total.", "correct": false \},\
+                \{ "text": "La velocidad promedio.", "correct": false \}\
+            ]\
+        \},\
+        \{\
+            "question": "Resuelve la ecuaci\'f3n:",\
+            "answers": [\
+                \{ "text": "x = 2", "correct": false \},\
+                \{ "text": "x = -2", "correct": false \},\
+                \{ "text": "x = 0", "correct": false \},\
+                \{ "text": "No tiene soluci\'f3n.", "correct": true \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_a751520246504db6a0b587410aa2d14b~mv2.png"\
+        \},\
+        \{\
+            "question": "Resuelve",\
+            "answers": [\
+                \{ "text": "Respuesta A", "correct": false \},\
+                \{ "text": "Respuesta B", "correct": true \},\
+                \{ "text": "Respuesta C", "correct": false \},\
+                \{ "text": "Respuesta D", "correct": false \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_a60e89a089cc49a4883eb9e33d80b0e4~mv2.png"\
+        \},\
+        \{\
+            "question": "Resuelve",\
+            "answers": [\
+                \{ "text": "Respuesta A", "correct": false \},\
+                \{ "text": "Respuesta B", "correct": false \},\
+                \{ "text": "Respuesta C", "correct": false \},\
+                \{ "text": "Respuesta D", "correct": true \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_8cd74befcc6f400ab2843189d5d72ce2~mv2.png"\
+        \},\
+        \{\
+            "question": "Resuelve",\
+            "answers": [\
+                \{ "text": "Respuesta A", "correct": false \},\
+                \{ "text": "Respuesta B", "correct": false \},\
+                \{ "text": "Respuesta C", "correct": false \},\
+                \{ "text": "Respuesta D", "correct": true \}\
+            ],\
+            "image": "https://static.wixstatic.com/media/ad24b0_225aa4d47ec94d82a2f2a406f697297c~mv2.png"\
+        \}\
+    ]\
+\}\
+}
